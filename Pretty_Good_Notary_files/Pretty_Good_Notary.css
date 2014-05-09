@@ -169,6 +169,10 @@
     line-height: 18px;
     opacity: 1.00;
 }
+.style_3 {
+    line-height: 20px;
+    text-decoration: underline;
+}
 .paragraph_style_7 {
     color: rgb(134, 134, 139);
     font-family: 'AvenirNext-UltraLight', 'Avenir Next';
@@ -301,19 +305,22 @@
 .graphic_textbox_layout_style_default_External_181_40 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_192_27 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_223_72 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_122_24 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_127_58 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_187_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_284_68 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_177_41 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
