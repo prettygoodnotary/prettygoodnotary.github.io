@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>kLinkSourceGUID</key>
+		<string>E4D1019A-6DE1-414D-BA44-C156CCA8B7A1</string>
+		<key>kLinkTargetGUID</key>
+		<string>8C919A4F-072A-4268-B4DE-227F57C607B6</string>
+		<key>kLinkType</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>
