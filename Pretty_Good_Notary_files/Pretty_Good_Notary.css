@@ -332,19 +332,22 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_170_24 {
+.graphic_textbox_layout_style_default_External_126_24 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_140_24 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_444_69 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_200_24 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_181_40 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_281_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_125_24 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_223_72 {
@@ -357,6 +360,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_122_24 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_129_24 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_187_27 {
@@ -384,6 +390,18 @@ a.class1:visited {
     text-decoration: none;
 }
 a.class1:hover {
+    text-decoration: none;
+}
+a.class2 {
+    color: rgb(67, 68, 70);
+    text-decoration: none;
+}
+a.class2:visited {
+    color: rgb(67, 68, 70);
+    text-decoration: none;
+}
+a.class2:hover {
+    color: rgb(67, 68, 70);
     text-decoration: none;
 }
 a:hover {
