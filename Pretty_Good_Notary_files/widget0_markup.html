@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title></title></head><body><div id="googleCalendar"> 
+</div>
+
+<script type="text/javascript">
+(
+function googleCalendarIconURL()
+{
+   var today = new Date();
+   var dd = today.getDate();
+   var result = 'http://calendar.google.com/googlecalendar/images/favicon_v2013_'+dd+'.ico';
+
+   var googleCalendar = document.getElementById("googleCalendar");
+   var a = document.createElement("a");
+   a.setAttribute('href', "http://www.prettygoodnotary.com/San_Francisco.html");
+
+   var image = document.createElement("img");
+   image.id = "id";
+   image.className = "class";
+   image.src = result;
+   image.height = "18";
+   image.width = "18";
+
+   a.appendChild(image);
+   googleCalendar.appendChild(a);
+}
+)()
+</script>
+
+</body></html>
